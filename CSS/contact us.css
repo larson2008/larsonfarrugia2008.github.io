@@ -1,0 +1,10 @@
+.error {
+    color: red;
+    font-size: 14px;
+}
+body{
+    margin: 0%;
+}
+form{
+    padding: 10px;
+}

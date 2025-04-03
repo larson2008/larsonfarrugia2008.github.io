@@ -1,0 +1,32 @@
+
+h1{
+    font-family: 'roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+    padding: 30px;
+    color: white;
+}
+section{
+    display: flex;
+}
+article{
+    background-color: rgb(21, 21, 21);
+    padding: 20px;
+    width: 55%;
+    font-family: sans-serif;
+}
+aside{
+    width: 45%;
+    background-color: rgb(21, 21, 21);
+    font-family: sans-serif;
+}
+
+span {
+    display: none;
+}
